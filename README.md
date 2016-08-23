@@ -16,4 +16,6 @@ Solution 2:
 1. File => New => Maven Project => Next
 2. Packaging => war
 3. Finished
-4. New => src/main/webapp/WEB-INF/web.xml cont. Solution 1-6
+4. New => src/main/webapp/WEB-INF/web.xml cont.
+5. pom.xml => Dependencies => Add... => javax.faces-api
+6. Solution 1-6
